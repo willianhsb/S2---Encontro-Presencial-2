@@ -1,0 +1,43 @@
+.logo{
+    width: 150px;
+}
+.img-banner{
+    width: 600px;
+}
+p{
+    text-align: justify;
+}
+.img-destaque{
+    width: 230px;
+
+}
+.galeria{
+    margin: 5px;
+    border: 1px red solid #ccc;
+    float: left;
+    width: 230px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.galeria p{
+    margin-left: 5px;    
+}
+.img-novidades{
+    width: 600px;
+}
+.facebook{
+    color: #3b5998;
+}
+.whatsapp{
+    color:  #34af23;
+}
+.instagram{
+    color: #cd486d;
+}
+.youtube{
+   color: #c4302b;
+}
+.logo-insta{
+    width: 80px;
+}
+
